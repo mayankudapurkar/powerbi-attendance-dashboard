@@ -7,8 +7,8 @@ This project showcases an **Interactive Attendance Dashboard** built using **Pow
 - Interactive layout
 
 ## 📁 Files Included
-- `AttendanceDashboard.pbix`: Main Power BI dashboard file
-- `attendance_data.csv`: (Optional) Sample data used in dashboard
+- `Attendance-Dashboard.pbix`: Main Power BI dashboard file
+- `Attendance_data.csv`: (Optional) Sample data used in dashboard
 
 
 ## 🚀 How to Use
